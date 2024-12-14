@@ -2,8 +2,8 @@
 
 Summary:	SeDuMi (Self-Dual-Minimization) is solving convex optimization problems for Octave
 Name:		octave-sqlp-sedumi
-Version:	1.3.5
-Release:	2
+Version:	1.3.8
+Release:	1
 License:	GPLv2+
 Group:		Sciences/Mathematics
 #Url:		https://packages.octave.org/sqlp-sedumi/
